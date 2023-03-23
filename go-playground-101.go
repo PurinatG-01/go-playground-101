@@ -9,7 +9,6 @@ import (
 
 func main() {
     fmt.Println(quote.Go())
-    fmt.Println(testLog())
 }
 
 func testLog() string{

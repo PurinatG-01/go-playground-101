@@ -1,6 +1,6 @@
-module github.com/go-playground-101
+module github.com/PurinatG-01/go-playground-101
 
-go 1.20
+go 1.19
 
 require rsc.io/quote v1.5.2
 
